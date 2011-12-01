@@ -45,3 +45,4 @@ group :test do
 end
 
 gem 'minitest'
+gem 'dynamic_form'
